@@ -25,15 +25,5 @@ WebUI.setText(findTestObject('Object Repository/Page_Velocity Payment System/inp
 
 WebUI.click(findTestObject('Object Repository/Page_Velocity Payment System/input_button2'))
 
-WebUI.openBrowser('')
 
-WebUI.closeBrowser()
-
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://qa.velocitypayment.com/vsecurity/login.jsp')
-
-WebUI.click(findTestObject('Object Repository/Page_Velocity Payment System/a_Forgot Password'))
-
-WebUI.closeBrowser()
 
